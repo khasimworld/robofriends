@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'KG Holocene Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('KG Holocene Regular'), url('KgHoloceneRegular-lgjKy.woff') format('woff');
+  }
+
+  h1{
+    font-family:'KG Holocene Regular' ;
+    font-weight: 600;
+    color: rgb(176, 237, 245);
+  }
